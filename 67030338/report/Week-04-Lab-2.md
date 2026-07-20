@@ -43,7 +43,7 @@ static const char *TAG = "LAB2_ADC_SETTLING";
 // กำหนดขาภาคส่ง RGB LED
 #define TX_LED_R_GPIO        GPIO_NUM_4
 #define TX_LED_G_GPIO        GPIO_NUM_5
-#define TX_LED_B_GPIO        GPIO_NUM_6
+#define TX_LED_B_GPIO        GPIO_NUM_32 v b 
 
 // กำหนดขาภาครับอนาล็อก (ESP32-C6: ADC1_CH2 คือ GPIO2)
 #define RX_ADC_UNIT          ADC_UNIT_1
