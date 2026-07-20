@@ -30,8 +30,6 @@
 นักศึกษาต้องต่อตัวต้านทานอนุกรมเข้ากับขา **GPIO4 (สีแดง)**, **GPIO5 (สีเขียว)**, และ **GPIO6 (สีน้ำเงิน)**  เพื่อจำกัดกระแสไฟฟ้าไม่ให้ชิปเกิดความเสียหาย
 
 
-![426](ESP32-RGB_LED.svg)
-
 
 #### **หมายเหตุ**
 ถ้า LED ที่ได้มาเป็น Common Anode ให้ต่อ common เข้าไฟ + 3.3 โวลต์ แต่ยังคงใช้ Resistor ค่าเดิม
@@ -142,8 +140,7 @@ idf_component_register(SRCS "main.c"
 
 #### 4.1 จาก `idf.py monitor` 
 
-
-![[messageImage_1784517275996.jpg]]
+<img width="2940" height="1844" alt="messageImage_1784517275996" src="https://github.com/user-attachments/assets/ce18f48f-6fcf-450e-9e6a-89c7ded6ef42" />
 #### 4.2 จากการสังเกตุ LED 
 
 
