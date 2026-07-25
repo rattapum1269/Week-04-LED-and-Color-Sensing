@@ -225,7 +225,12 @@ No, ADC Raw
     
     ให้นักศึกษาก๊อปปี้ข้อมูลตัวเลขชุดคู่อันดับ `No, ADC Raw` จาก Serial Monitor ทั้งหมดนำไปวางในโปรแกรม **Microsoft Excel** หรือ **Google Sheets** จากนั้นทำการพล็อตกราฟเส้น (Line Chart) โดยให้แกน X เป็นลำดับแซมเปิ้ล (1-20) และแกน Y เป็นค่าดิบของ ADC และแนบรูปกราฟลงในเล่มรายงาน
      - graph
-    
+    <img width="491" height="297" alt="image" src="https://github.com/user-attachments/assets/ab5e2657-5155-4f73-9e14-2ae13b699408" />
+	<img width="517" height="305" alt="image" src="https://github.com/user-attachments/assets/150c5e64-6088-4202-944b-d9bd588c0db1" />
+	<img width="520" height="307" alt="image" src="https://github.com/user-attachments/assets/56a233e5-0265-4679-a86a-adcfcb343b44" />
+
+
+
 1. **คำถามนำเพื่อการวิเคราะห์เชิงระบบ (Critical Thinking):**
     
     - จากกราฟที่พล๊อตออกมา นักศึกษาสังเกตเห็นแนวโน้มตัวเลขของค่า ADC ตั้งแต่แซมเปิ้ลที่ 1 ไต่ระดับลงมาหรือขึ้นไปจนถึงแซมเปิ้ลที่ 20 อย่างไร? 
